@@ -1,0 +1,19 @@
+= About This Repository
+
+This repository contains the TEI source file, and derived text and HTML files of an ebook posted to https://www.gutenberg.org/[Project Gutenberg]. Like the version posted to Project Gutenberg, this ebook is free from copyright in the U.S. No claim is made about its copyright status outside the U.S.
+
+The version maintained in this repository may be slightly out-of-sync with the version maintained at Project Gutenberg. Mostly, fixes will be made first here, and only then reposted to Project Gutenberg. When you encounter any issue in this text, please report it here.
+
+== About This Ebook
+
+|===
+|Field |Value
+
+|Title |De Nederlandsche stads- en dorp-beschrijver; III. deel (Amstelland, Weesper Kerspel, Gooiland, de Loosdrecht enz.)
+|Author |Lieve van Ollefen (1749–1816)
+|Illustrator |Anna Catharina Brouwer (1772–)
+|Publisher |Project Gutenberg, Urbana, Illinois, USA., 2023-11-18
+|Publication date |2023-11-18
+|Availability |Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op https://www.gutenberg.org/[www.gutenberg.org]. Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op https://www.pgdp.net/[www.pgdp.net].
+|PG Ebook Number |https://www.gutenberg.org/ebooks/72162[72162]
+|===
